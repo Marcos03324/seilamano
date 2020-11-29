@@ -1,0 +1,23 @@
+{
+  "name": "seilamano",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marcos03324/seilamano.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marcos03324/seilamano/issues"
+  },
+  "homepage": "https://github.com/Marcos03324/seilamano#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
